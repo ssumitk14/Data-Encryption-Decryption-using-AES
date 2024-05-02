@@ -27,7 +27,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-```bash
+```python
 import time
 from folder_encryption import encryption_decryption_arguments
 
